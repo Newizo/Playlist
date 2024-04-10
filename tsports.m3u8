@@ -1,9 +1,3 @@
-
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://its-nayeemparvez.xyz/api/tsports.php/https://live-cdn.tsports.com/live-02/master_1920.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
-https://its-nayeemparvez.xyz/api/tsports.php/https://live-cdn.tsports.com/live-02/master_1280.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1131528,AVERAGE-BANDWIDTH=1131528,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000
-https://its-nayeemparvez.xyz/api/tsports.php/https://live-cdn.tsports.com/live-02/master_854.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512
+https://its-nayeemparvez.xyz/api/tsports.php/https://live-cdn.tsports.com/live-02/index.m3u8
